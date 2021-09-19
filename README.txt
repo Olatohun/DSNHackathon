@@ -1,0 +1,1 @@
+go to "https://www.kaggle.com/c/dsn-prebootcamp-2021/overview" for more information on the files in this repo
